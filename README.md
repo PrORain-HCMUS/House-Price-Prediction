@@ -1,10 +1,16 @@
 
 # 🏡 Prediction Interval Competition II: House Price (Kaggle 2025)
 
-[![Kaggle Link](https://img.shields.io/badge/Kaggle-Competition-blue)](https://www.kaggle.com/competitions/prediction-interval-competition-ii-house-price)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+<div align="center">
+  <a href="https://www.kaggle.com/competitions/prediction-interval-competition-ii-house-price">
+    <img src="https://img.shields.io/badge/Kaggle-Competition-blue" alt="Kaggle Badge">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT Badge">
+  </a>
+</div>
 
-> Final project of the **Intelligent Data Analysis** course – HCMUS, 2025
+
 
 ## 📌 Overview
 
@@ -82,11 +88,6 @@ This ensures the **coverage guarantee** without assuming any distribution.
 | Nguyễn Tường Bách Hỷ  | 22120455     | Conformal Prediction, Analysis, Training   |
 | Lê Hoàng Vũ           | 22120461     | Modeling, Training, Report       |
 
-Advised by:
-
-- TS. Nguyễn Tiến Huy  
-- TS. Lê Thanh Tùng  
-- ThS. Nguyễn Trần Duy Minh
 
 ## 📎 Resources
 
